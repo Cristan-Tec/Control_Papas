@@ -1,0 +1,8 @@
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\bin\Debug\NetApp.exe.config
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\bin\Debug\NetApp.exe
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\bin\Debug\NetApp.pdb
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\obj\Debug\NetApp.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\obj\Debug\NetApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\obj\Debug\NetApp.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\obj\Debug\NetApp.exe
+C:\Users\USUARIO\Documents\10º Semestre\Inteligencia Artificial\Proyecto\Control_Papas\net\NetApp\obj\Debug\NetApp.pdb
